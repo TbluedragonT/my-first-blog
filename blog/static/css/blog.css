@@ -1,4 +1,3 @@
-
 .page-header {
     background-color: #ff9400;
     margin-top: 0;
@@ -20,12 +19,13 @@ h1, h2, h3, h4 {
 }
 
 .date {
-    float: none;
+    float: right;
     color: #828282;
 }
 
 .save {
     float: right;
+  
 }
 
 .post-form textarea, .post-form input {
@@ -37,6 +37,7 @@ h1, h2, h3, h4 {
     float: right;
     font-size: 26pt;
     margin-right: 20px;
+    margin-top: -55px;
 }
 
 .post {
